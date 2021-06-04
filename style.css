@@ -1,0 +1,31 @@
+* {
+    box-sizing:border-box;
+    margin:0px;
+    padding:0;
+}
+
+html, body {
+
+    height:100%;
+    width:100%;  
+}  
+
+body {
+
+    align-content:space-around;
+    align-content: center;
+    background-color:#009c9c;
+    color:#FBF5F3;
+    display:grid;
+    justify-content:center;
+
+}
+
+canvas {
+    border: 5px solid black;
+    margin: 30px;
+}
+
+.margin-ten {
+    margin: 10px;
+}
